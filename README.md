@@ -1,6 +1,8 @@
 # Generador de Código QR con Python
 =====================================
 
+![](https://img.freepik.com/vector-gratis/concepto-escaneo-codigo-qr-caracteres-ilustrados_23-2148633631.jpg?t=st=1730499730~exp=1730503330~hmac=581b6c441a3b7cafbc89a4ac979cfaff3a768ec931b3ee33e0dfe40251d124bb&w=740)
+
 Importar paquetes
 Python
 ```py
