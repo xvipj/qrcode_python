@@ -72,4 +72,4 @@ Luego, ejecuta el código para generar el archivo codigo.png en el directorio ac
 
 ## Documentacion del paquete
 
-[](https://pypi.org/project/qrcode/)
+![](https://pypi.org/project/qrcode/)
