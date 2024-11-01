@@ -74,4 +74,4 @@ Luego, ejecuta el código para generar el archivo codigo.png en el directorio ac
 
 \[](https://pypi.org/project/qrcode/)
 
-![](https://img.freepik.com/vector-gratis/gente-pequena-que-usa-codigo-qr-pago-linea-aislado-ilustracion-plana_74855-11136.jpg?t=st=1730500061~exp=1730503661~hmac=1f1c756ae00da0abde02fb3ebcdcd1fa0c2d26966adeb40c8233dd1c8d5873de&w=740)
+![https://img.freepik.com/vector-gratis/gente-pequena-que-usa-codigo-qr-pago-linea-aislado-ilustracion-plana_74855-11136.jpg?t=st=1730500061~exp=1730503661~hmac=1f1c756ae00da0abde02fb3ebcdcd1fa0c2d26966adeb40c8233dd1c8d5873de&w=740](https://img.freepik.com/vector-gratis/gente-pequena-que-usa-codigo-qr-pago-linea-aislado-ilustracion-plana_74855-11136.jpg?t=st=1730500061~exp=1730503661~hmac=1f1c756ae00da0abde02fb3ebcdcd1fa0c2d26966adeb40c8233dd1c8d5873de&w=740)
